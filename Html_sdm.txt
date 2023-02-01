@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>
+
+		</title>
+	</head>
+	<body>
+		<h1>Mohan</h1>
+		<p>xxx</p>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p>YYY</p>
+	</body>
+</html>
+---------------------------------------------
+
+
+create sdm folder in f drive
+right click on sdm folder and click on git bash here
+git clone path of sdm folder
+for pushing data to our repository git clone knowitdac path(repository path)
